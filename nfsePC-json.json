@@ -1,13 +1,13 @@
-<ConsultaNFSe>
-<InscricaoPrestador>12345678</InscricaoPrestador>
-<NumeroNFe>9876543</NumeroNFe>
-<CodigoVerificacao>8a2b1f7dc47932e1a64e7861556ef37402d744c5</CodigoVerificacao>
-<SerieRPS>RPS123</SerieRPS>
-<NumeroRPS>9876542</NumeroRPS>
-<DataEmissaoRPS>2024-02-10T12:00:00</DataEmissaoRPS>
-<RazaoSocialPrestador>EMPRESA TESTE</RazaoSocialPrestador>
-<TipoRecolhimento>B</TipoRecolhimento>
-<ValorDeduzir>50</ValorDeduzir>
-<ValorTotal>150</ValorTotal>
-<Aliquota>6</Aliquota>
-</ConsultaNFSe>
+{
+        "InscricaoPrestador": "12345678",
+        "NumeroNFe": "9876543",
+        "CodigoVerificacao": "8a2b1f7dc47932e1a64e7861556ef37402d744c5",
+        "SerieRPS": "RPS123",
+        "NumeroRPS": "9876542",
+        "DataEmissaoRPS": "2024-02-10T12:00:00",
+        "RazaoSocialPrestador": "EMPRESA TESTE",
+        "TipoRecolhimento": "B",
+        "ValorDeduzir": "50",
+        "ValorTotal": "150",
+        "Aliquota": "6"
+}
